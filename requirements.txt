@@ -1,1 +1,1 @@
-style-validator @ https://github.com/Millstone123/style-validator-data/releases/download/v1.0.0/style_validator-1.0.0-py3-none-any.whl
+style-validator @ https://github.com/Millstone123/style-validator-data/releases/download/v1.1.1/style_validator-1.1.1-py3-none-any.whl
