@@ -1,6 +1,6 @@
 bootstrap:
 	pip install -r requirements.txt
-	python validate.py
+	python -c "from style_validator import check_profiles; check_profiles()"
 
 test:
 	python -m pytest test_validator.py -q
